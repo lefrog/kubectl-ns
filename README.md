@@ -4,7 +4,7 @@ Simple kubectl wrapper to ease passing of namespace.
 
 ## Usage
 
-Simply copy this script in your local bin directory (e.g. ./local/bin) and make symbolic line of it
+Simply copy this script in your local bin directory (e.g. ./local/bin) and make symbolic link of it
 with the desired namespace as the extension.
 e.g.
 ```
